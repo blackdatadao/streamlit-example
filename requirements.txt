@@ -3,6 +3,5 @@ pandas
 streamlit
 web3
 eth_abi
-time
 numpy
 plotly
